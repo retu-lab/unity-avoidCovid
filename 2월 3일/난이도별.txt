@@ -1,0 +1,13 @@
+easy 
+	interval 1 -> 10초 간격으로 0.05씩 감소 최종0.5
+
+
+
+medium
+	interval -> 초기 0.75 10초간격 0.05 최종 0.25
+
+hard ->
+	interval -> 초기 0.55 10초간격 0.05 최종 0.05
+
+insane ->
+
