@@ -11,3 +11,4 @@ hard ->
 
 insane ->
 
+	interval -> 계속 0.1
