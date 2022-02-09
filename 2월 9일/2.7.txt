@@ -1,0 +1,24 @@
+최고기록 수정
+
+아이템
+	방향반대 아이템 버튼누를때 초기화하는 것 추가
+	점프 초기화 하는것 추가
+	스피드 초기화 하는 것 추가
+
+게임오버, 홈 버튼 -> 애니메이션 
+
+총알 옆에 블락에 닿으면 없어지게, 흰색 코로나 -> covid layer 로 해놓음
+
+
+소리작업전 유의사항
+
+
+음악 효과음
+구글링 -> royalty free sounds effects
+https://soundeffect-lab.info/sound/battle/
+https://soundeffect-lab.info/sound/button/
+
+0번째 화면, 1번째 화면 음악 안끊기게
+
+vaccine 획득시 -> load 재생
+heart -> heartSound 재생
